@@ -1,0 +1,19 @@
+Job Title: Junior Data Analyst / ML Engineer
+
+Requirements:
+- Bachelor's or Master's degree in Computer Science, Data Science, or related field
+- Experience with Python, SQL, and data analysis libraries
+- Knowledge of machine learning algorithms and frameworks
+- Familiarity with cloud platforms (Azure, AWS, or GCP)
+- Strong problem-solving and analytical skills
+- Experience with data visualization tools
+- Understanding of statistical analysis and modeling
+- Ability to work in collaborative team environments
+
+Preferred Skills:
+- Azure certification
+- Experience with SIEM tools and security operations
+- Knowledge of incident detection and response
+- Familiarity with scikit-learn, TensorFlow, or PyTorch
+- Experience with EDA and data preprocessing
+- Strong communication skills
